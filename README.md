@@ -1,3 +1,5 @@
+(Template atualizado em breve...)
+
 # LISTA 2 - PROJETO DE ALGORITMOS - 2019/2
 
 ### Henrique Martins de Messias - 17/0050394
