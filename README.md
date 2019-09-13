@@ -14,7 +14,11 @@ O software deste repositório envolve calcular a menor distância entre hospitai
 O propósito desse programa é que o usuário defina áreas onde serão os hospitais, um local onde haverá um acidente e as rotas disponíveis no mapa, com as suas respectivas distâncias. O programa irá então calcular o menor trajeto possível que uma ambulância pode fazer de um hospital até o acidente e, em seguida, do acidente até o hospital. A ambulância não tem a necessidade de voltar para o hospital de onde veio (pode ser que isso nem seja possível). Para que o cálculo seja feito, deve haver pelo menos um hospital e um acidente. Se não for possível chegar até o acidente ou até o hospital, o programa dirá.
 
 ## Screenshots
-Telas
+![inicio](img/inicio.png)
+
+![mapa](img/mapa.png)
+
+![caminho](img/caminho.png)
 
 ## Instalação 
 **Linguagem**: Java<br>
