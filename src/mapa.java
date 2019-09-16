@@ -251,9 +251,10 @@ public class mapa extends Canvas{
 					if(this.lendoArquivo == false)
 						this.pedeValor();
 					
-					this.desenhaSeta(valor, valor2, this.tempDist);
-					
-					grafo.setDistancia(valor2, valor, this.tempDist);
+					if(this.tempDist != -1) {
+						this.desenhaSeta(valor, valor2, this.tempDist);
+						grafo.setDistancia(valor2, valor, this.tempDist);
+					}
 				}
 				else {
 					int dist = grafo.getDistancia(valor, valor2);

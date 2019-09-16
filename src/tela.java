@@ -95,7 +95,7 @@ public class tela extends JFrame{
 		b[3].setText("Criar distância");
 		b[4].setText("Apagar distância");
 		b[5].setText("Acidente");
-		b[6].setText("Traçar Rota");
+		b[6].setText("Iniciar simulação");
 	}
 	
 	private void createMenuBar() {

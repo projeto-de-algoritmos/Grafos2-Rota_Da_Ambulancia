@@ -59,7 +59,7 @@ Embaixo do mapa, o usuário verá os seguintes botões:
   - Criar Distância (o usuário deverá clicar, então, em duas áreas e digitar um número entre 1 e 9. Esse número será a distância entre essas áreas. A distância definida é em apenas uma direção. Se o usuário quiser que ida e volta também seja possível, deverá clicar nas duas áreas de novo, mas na ordem inversa)
   - Apagar Distância (o usuário deverá clicar, então, nas duas áreas que ele deseja deletar a distância. Caso seja possível fazer o percursso nas duas direções, a outra ainda existirá)
   - Acidente (o usuário deverá clicar, então, na área que ele deseja que seja o acidente)
-  - Traçar rota (se todas as condições forem atendidas, o programa irá calcular a menor rota, se existir)
+  - Iniciar Simulação (se todas as condições forem atendidas, o programa irá calcular a menor rota, se existir)
 
 Ao lado direito do mapa, há as seguintes informações:
   - Início (hospital de origem da ambulância)
@@ -67,3 +67,5 @@ Ao lado direito do mapa, há as seguintes informações:
   - Distância Inicial (distância entre o hospital de origem e o acidente)
   - Distância Final (distância entre o acidente e o hospital de destino)
   - Distância Total (distância que a ambulância percorrerá do hospital de origem ao hospital de destino)
+
+O usuário pode usar o menu na parte superior para abrir um arquivo de exemplo, disponível na pasta "exemplos"
